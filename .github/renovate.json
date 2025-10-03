@@ -12,7 +12,7 @@
       "prHourlyLimit": 3
     },
     {
-      "matchPackagePatterns": ["^hashicorp/azurerm$", "^hashicorp/random$", "^hashicorp/null$"],
+      "matchPackagePatterns": ["^hashicorp/azurerm$", "^hashicorp/random$", "^hashicorp/null$", "^hashicorp/local$"],
       "groupName": "terraform provider updates",
       "rangeStrategy": "n-2",
       "prHourlyLimit": 3
